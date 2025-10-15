@@ -4,9 +4,8 @@ project:
   
 book:
   title: VALORIZE
-  author: Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft
-  logo: altair-hist.png
-  repo-url: https://github.com/uwdata/visualization-curriculum
+  author: Meliana Christianti Johan, Armein Z. R. Langi, I Gusti Bagus Baskara Nugraha
+  repo-url: https://github.com/valorizelearning/framework/
   repo-branch: master
   repo-actions: [issue]
   sharing: [twitter, facebook]
