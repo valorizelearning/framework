@@ -4,17 +4,17 @@
     "href": "index.html",
     "title": "VALORIZE",
     "section": "",
-    "text": "Introduction\nValorize A data visualization curriculum of interactive notebooks, using Vega-Lite and Altair. This book contains a series of Python-based Jupyter notebooks, a corresponding set of JavaScript notebooks are available online on Observable.",
+    "text": "Introduction",
     "crumbs": [
       "Introduction"
     ]
   },
   {
-    "objectID": "index.html#getting-started",
-    "href": "index.html#getting-started",
+    "objectID": "index.html#valorize-learning-where-value-is-realized",
+    "href": "index.html#valorize-learning-where-value-is-realized",
     "title": "VALORIZE",
-    "section": "Getting Started",
-    "text": "Getting Started\nThe visualization curriculum can be used either online or on your local computer. You can view and interact with the plots directly in this Jupyter Book. If you want to modify the code, you have a few different options:\n\nTo read JavaScript notebooks online using Observable, navigate to the “Observable” page above and click the corresponding notebook.\nTo read Python notebooks online using Colab, click the corresponding section in this book, hover over the little rocket ship at the top of the page, and select “Colab” from the menu.\nTo read Python notebooks locally, follow the instructions below.\n\n\nLocal Installation\n\nInstall Altair and a notebook environment. The most recent versions of these notebooks use Altair version 4.\nDownload the notebooks from the releases page. Typically you will want to use the most recent release. (If you wish to use notebooks for Altair version 3, download the Altair v3.2 release.)\nOpen the notebooks in your local notebook environment. For example, if you have JupyterLab installed (v1.0 or higher is required), run jupyter lab within the directory containing the notebooks.\n\nDepending on your programming environment (and whether or not you have a live internet connection), you may want to specify a particular renderer for Altair.",
+    "section": "VALORIZE LEARNING: Where Value is Realized!",
+    "text": "VALORIZE LEARNING: Where Value is Realized!\nKerangka pembelajaran transformatif yang mengintegrasikan Value (nilai), Collaboration (kolaborasi), Artificial Intelligence (Kecerdasan Buatan), dan Personalized Learning (Pembelajaran yang dipersonalisasi) untuk menciptakan pembelajaran yang bermakna (Value Co-Creation) dalam konteks pendidikan berorientasi nilai (Value Oriented Education).\n\nTo read JavaScript notebooks online using Observable, navigate to the “Observable” page above and click the corresponding notebook.\nTo read Python notebooks online using Colab, click the corresponding section in this book, hover over the little rocket ship at the top of the page, and select “Colab” from the menu.\nTo read Python notebooks locally, follow the instructions below.\n\n\nLocal Installation\n\nInstall Altair and a notebook environment. The most recent versions of these notebooks use Altair version 4.\nDownload the notebooks from the releases page. Typically you will want to use the most recent release. (If you wish to use notebooks for Altair version 3, download the Altair v3.2 release.)\nOpen the notebooks in your local notebook environment. For example, if you have JupyterLab installed (v1.0 or higher is required), run jupyter lab within the directory containing the notebooks.\n\nDepending on your programming environment (and whether or not you have a live internet connection), you may want to specify a particular renderer for Altair.",
     "crumbs": [
       "Introduction"
     ]

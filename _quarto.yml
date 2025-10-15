@@ -4,11 +4,10 @@ project:
   
 book:
   title: VALORIZE
-  author: Meliana Christianti Johan, Armein Z. R. Langi, I Gusti Bagus Baskara Nugraha
+  author: Valorize Learning Framework
   repo-url: https://github.com/valorizelearning/framework/
   repo-branch: master
   repo-actions: [issue]
-  sharing: [twitter, facebook]
   chapters:
     - index.md
     - part: Curriculum

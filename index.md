@@ -1,14 +1,12 @@
 # Introduction {.unnumbered}
 
-Valorize A data visualization curriculum of interactive notebooks, using [Vega-Lite](https://vega.github.io/vega-lite/) and [Altair](https://altair-viz.github.io/). This book contains a series of Python-based Jupyter notebooks, a corresponding set of JavaScript notebooks are available online on [Observable](https://observablehq.com/@uwdata/data-visualization-curriculum).
-
 ::: {.callout-note appearance="simple"}
-This book was originally created using [Jupyter Book](https://jupyterbook.org/) and published at <https://uwdata.github.io/visualization-curriculum/>. This site is a port of the original book source to the [Quarto](https://quarto.org) publishing system in order to provide an example of it's use.
+Kata "Valorize" berasal dari bahasa Prancis valoriser dan akar Latin valor (nilai). Dalam konteks pendidikan, Valorize berarti mengakui, mengembangkan, dan merealisasikan potensi yang ada menjadi nilai nyata yang dapat diukur.
 :::
 
-## Getting Started
+## VALORIZE LEARNING: Where Value is Realized!
 
-The visualization curriculum can be used either online or on your local computer. You can view and interact with the plots directly in this Jupyter Book. If you want to modify the code, you have a few different options:
+Kerangka pembelajaran transformatif yang mengintegrasikan Value (nilai), Collaboration (kolaborasi), Artificial Intelligence (Kecerdasan Buatan), dan Personalized Learning (Pembelajaran yang dipersonalisasi) untuk menciptakan pembelajaran yang bermakna (Value Co-Creation) dalam konteks pendidikan berorientasi nilai (Value Oriented Education).
 
 - To read JavaScript notebooks online using [Observable](https://observablehq.com/), navigate to the "Observable" page above and click the corresponding notebook.
 - To read Python notebooks online using [Colab](https://colab.research.google.com/), click the corresponding section in this book, hover over the little rocket ship at the top of the page, and select "Colab" from the menu.
