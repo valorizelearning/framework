@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 book:
-  title: Visualization Curriculum
+  title: VALORIZE
   author: Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft
   logo: altair-hist.png
   repo-url: https://github.com/uwdata/visualization-curriculum
