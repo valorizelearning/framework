@@ -12,7 +12,7 @@ book:
     - index.md
     - part: Curriculum
       chapters:
-        - altair_introduction.ipynb
+        - valorize_introduction.ipynb
         - altair_marks_encoding.ipynb
         - altair_data_transformation.ipynb
         - altair_scales_axes_legends.ipynb
